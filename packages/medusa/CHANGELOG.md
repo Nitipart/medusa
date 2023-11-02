@@ -1,5 +1,15 @@
 # Change Log
 
+## 1.17.4
+
+### Patch Changes
+
+- [#5496](https://github.com/medusajs/medusa/pull/5496) [`154c9b43b`](https://github.com/medusajs/medusa/commit/154c9b43bde1fdff562aba9da8a79af2660b29b3) Thanks [@adrien2p](https://github.com/adrien2p)! - feat(medusa, modules-sdk, types, utils): Re work modules loading and remove legacy functions
+
+- Updated dependencies [[`154c9b43b`](https://github.com/medusajs/medusa/commit/154c9b43bde1fdff562aba9da8a79af2660b29b3)]:
+  - @medusajs/modules-sdk@1.12.3
+  - @medusajs/utils@1.10.5
+
 ## 1.17.3
 
 ### Patch Changes
